@@ -5,10 +5,18 @@ import "./assets/vendor/bootstrap-icons/bootstrap-icons.css";
 import "./assets/vendor/glightbox/css/glightbox.min.css";
 import "./assets/vendor/swiper/swiper-bundle.min.css";
 import AnkaraJpeg from "./assets/img/ankaranak2.jpeg";
+import { Helmet } from "react-helmet";
 
 const Main = () => {
   return (
     <div>
+      <Helmet>
+        <title>Ankara Evden Eve Nakliyat - Güvenli ve Hızlı Taşımacılık</title>
+        <meta
+          name="description"
+          content="Ankara'da evden eve nakliyat hizmetleri sunuyoruz. Güvenli, hızlı ve sorunsuz taşınma deneyimi için bizimle iletişime geçin."
+        />
+      </Helmet>
       <>
         <header
           id="header"

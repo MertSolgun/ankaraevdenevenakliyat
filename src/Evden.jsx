@@ -5,11 +5,19 @@ import "./assets/vendor/bootstrap-icons/bootstrap-icons.css";
 import "./assets/vendor/glightbox/css/glightbox.min.css";
 import "./assets/vendor/swiper/swiper-bundle.min.css";
 import AnkaraJpeg from "./assets/img/ankaranak2.jpeg";
+import { Helmet } from "react-helmet";
 
 const Main = () => {
   return (
     <div>
       <>
+        <Helmet>
+          <title>Evden Eve Nakliyat Ankara - Hemen Teklif Al</title>
+          <meta
+            name="description"
+            content="Evden Eve Nakliyat Ankara hizmetleri sunuyoruz. Güvenli, hızlı ve sorunsuz taşınma deneyimi için hemen teklif alin"
+          />
+        </Helmet>
         <header
           id="header"
           className="header d-flex align-items-center fixed-top"
