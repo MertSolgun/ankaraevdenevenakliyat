@@ -439,21 +439,23 @@ const Main = () => {
                 <h4>Useful Links</h4>
                 <ul>
                   <li>
-                    <a href="/ankaraevdenevenakliyat">
+                    <a href="https://arenanakliyat.com/">
                       ankara evden eve nakliyat
                     </a>
                   </li>
                   <li>
-                    <a href="/evdenevenakliyat">evden eve nakliyat</a>
+                    <a href="https://arenanakliyat.com/">evden eve nakliyat</a>
                   </li>
                   <li>
-                    <a href="/nakliyatankara">nakliyat ankara</a>
+                    <a href="https://arenanakliyat.com/">nakliyat ankara</a>
                   </li>
                   <li>
-                    <a href="/kahramankazannakliyat">kahramankazan nakliyat</a>
+                    <a href="https://arenanakliyat.com/">
+                      kahramankazan nakliyat
+                    </a>
                   </li>
                   <li>
-                    <a href="/evdenevenakliyat">evden eve nakliyat</a>
+                    <a href="https://arenanakliyat.com/">evden eve nakliyat</a>
                   </li>
                 </ul>
               </div>
