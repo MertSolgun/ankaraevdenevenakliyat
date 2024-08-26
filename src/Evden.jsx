@@ -17,10 +17,6 @@ const Main = () => {
             name="description"
             content="Evden Eve Nakliyat Ankara hizmetleri sunuyoruz. Güvenli, hızlı ve sorunsuz taşınma deneyimi için hemen teklif alin"
           />
-          <meta
-            name="google-site-verification"
-            content="nUsv2btAXf6SnJZkUjXyGkifxZJd_DLw1G3_sEeiaJI"
-          />
         </Helmet>
         <header
           id="header"
